@@ -5,6 +5,6 @@
 #include <stdlib.h>
 #include <time.h>
 
-
+int sleep(unsigned long x);
 
 #endif //_LOGIC_H_
